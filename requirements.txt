@@ -1,0 +1,5 @@
+# Core kinematics, planning and simulation are pure Python stdlib.
+# matplotlib is only needed for PNG plots (an SVG fallback exists for
+# planar cells); pytest is only needed to run the test suite.
+matplotlib>=3.5
+pytest>=7.0
