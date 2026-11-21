@@ -1,0 +1,1 @@
+{"arm":{"kind":"2r","lengths":[0.5,0.4]},"conveyor":{"approach_height":0.12,"pick":[0.55,0.15,0.0]},"home_deg":[45.0,45.0],"limits":{"max_joint_accel":4.0,"max_joint_speed":1.5},"name":"demo-cell-2r","obstacles":[{"center":[-0.55,0.45,0.0],"name":"column","radius":0.08}],"pallet":{"cols":3,"dx":0.12,"dy":0.12,"origin":[0.15,0.55,0.0],"rows":2}}

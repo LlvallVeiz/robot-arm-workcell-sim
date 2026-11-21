@@ -1,0 +1,1 @@
+{"arm":{"kind":"6dof"},"conveyor":{"approach_height":0.12,"pick":[0.45,-0.25,0.05]},"home_deg":[0.0,-90.0,90.0,-90.0,-90.0,0.0],"limits":{"max_joint_accel":4.0,"max_joint_speed":1.5},"name":"demo-cell-6dof","obstacles":[{"center":[-0.5,0.5,0.3],"name":"fixture-post","radius":0.1}],"pallet":{"cols":3,"dx":0.12,"dy":0.12,"origin":[0.3,0.3,0.05],"rows":2}}
