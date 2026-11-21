@@ -1,0 +1,1 @@
+{"cell_file":"cells/cell_6dof.json","description":"6-DOF UR5 arm: pick a part from the conveyor and place it on pallet slot 0, tool pointing down.","dt":0.01,"name":"pick-place-6dof-conveyor-to-pallet","task":{"approach_height":0.12,"dwell":0.4,"lift_height":0.15,"pick":"conveyor","place_slot":0,"transit_speed":1.0}}

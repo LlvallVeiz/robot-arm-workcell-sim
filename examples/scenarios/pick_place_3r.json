@@ -1,0 +1,1 @@
+{"cell_file":"cells/cell_3r.json","description":"Planar 3R arm (tool pointing down): pick a part from the conveyor and place it on pallet slot 0.","dt":0.01,"name":"pick-place-3r-conveyor-to-pallet","task":{"approach_height":0.08,"dwell":0.4,"lift_height":0.1,"pick":"conveyor","place_slot":0,"transit_speed":1.0}}
